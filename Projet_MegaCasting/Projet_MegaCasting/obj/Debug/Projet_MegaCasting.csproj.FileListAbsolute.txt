@@ -1,0 +1,9 @@
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\bin\Debug\Projet_MegaCasting.exe.config
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\bin\Debug\Projet_MegaCasting.exe
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\bin\Debug\Projet_MegaCasting.pdb
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\obj\Debug\Projet_MegaCasting.csprojResolveAssemblyReference.cache
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\obj\Debug\Projet_MegaCasting.MainForm.resources
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\obj\Debug\Projet_MegaCasting.Properties.Resources.resources
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\obj\Debug\Projet_MegaCasting.csproj.GenerateResource.Cache
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\obj\Debug\Projet_MegaCasting.exe
+C:\IIA\C#\Projet_Megacasting\MegaCasting_Projet\Projet_MegaCasting\Projet_MegaCasting\obj\Debug\Projet_MegaCasting.pdb
